@@ -9,11 +9,11 @@ const App: Component = () => {
 		<div class={styles.App}>
 			<h1>Hello world from solidjs!</h1>
 			<br />
-			<Day1.Comp2 />
+			<Day1.Comp3 />
 		</div>
 	)
 }
 // <Day1.Comp1 />
-// <Day1.Comp3 />
+// <Day1.Comp2 />
 
 export default App
