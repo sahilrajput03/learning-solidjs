@@ -3,7 +3,9 @@
 **`Solidjs` is using vite currently. The library was trying out couple of
 other solutions previously which includes `parcel`, `rollup`, and others.**
 
-Reference to wach : https://www.youtube.com/watch?v=ZZ-a7B761Ds
+**Reference to wach:**
+- Let's Learn SolidJS - Learn With Jason: [Click here](https://www.youtube.com/watch?v=ZZ-a7B761Ds)
+- Ryan Carniato - The World Beyond Components - React Finland: [Click here](https://youtu.be/O6xtMrDEhcE)
 
 Only do esting with the `ts-solidjs-project` project coz thats workign
 good with HRML for now, also the js-react version is broke with HRML
