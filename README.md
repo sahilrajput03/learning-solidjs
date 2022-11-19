@@ -6,6 +6,7 @@ other solutions previously which includes `parcel`, `rollup`, and others.**
 **Video References:**
 - Theo - ping․gg: SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO: [Click here](https://youtu.be/hSECorasSK8)
 - Let's Learn SolidJS - Learn With Jason: [Click here](https://www.youtube.com/watch?v=ZZ-a7B761Ds)
+- ON Ryan carinato Channel: Creating a VDOM-less Renderer with Preact Signals: [Click here](https://youtu.be/Fp9duJd6Txc)
 - Ryan Carniato - The World Beyond Components - React Finland: [Click here](https://youtu.be/O6xtMrDEhcE)
 
 Only do esting with the `ts-solidjs-project` project coz thats workign
