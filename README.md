@@ -17,6 +17,11 @@ Github: https://github.com/solidjs/templates
 
 ## Todo:
 
+**Todo Videos (amazing):**
+- Talk by Author in JSWorld Conference (Sept, 2024): [Click here](https://youtu.be/ZVjXtfdKQ3g) (28mins)
+- Intro to SolidJS by Author (Jan, 2024): [Click here](https://youtu.be/cELFZQAMdhQ)
+
+Docs:
 - Examples: https://github.com/solidjs/solid/blob/main/documentation/resources/examples.md
 - Getting started: https://www.solidjs.com/guides/getting-started
 - Cleanup hook in solids js(TEST IT): https://codesandbox.io/s/8no2n9k94l?file=/index.tsx
